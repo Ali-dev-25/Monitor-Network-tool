@@ -1,0 +1,5 @@
+requests
+pygetwindow
+pywin32
+pywinauto
+python-dotenv

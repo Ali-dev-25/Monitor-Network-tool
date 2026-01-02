@@ -39,5 +39,5 @@ pip install -r requirements.txt
 
 ## Authors
 Ali Al-Hatami
-Khalid Al-Qozi
+khaled Alghuzzi
 
